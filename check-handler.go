@@ -6,10 +6,10 @@ import (
 
 	"net/http"
 
-	"github.com/AcalephStorage/consul-alerts/consul"
+	"github.com/fpalladoro/consul-alerts/consul"
 	"github.com/fpalladoro/consul-alerts/notifier"
 
-	log "github.com/AcalephStorage/consul-alerts/Godeps/_workspace/src/github.com/Sirupsen/logrus"
+	log "github.com/fpalladoro/consul-alerts/Godeps/_workspace/src/github.com/Sirupsen/logrus"
 )
 
 type CheckProcessor struct {

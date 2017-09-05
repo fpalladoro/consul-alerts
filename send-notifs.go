@@ -7,7 +7,7 @@ import (
 	"github.com/mitchellh/hashstructure"
 	"os/exec"
 
-	log "github.com/AcalephStorage/consul-alerts/Godeps/_workspace/src/github.com/Sirupsen/logrus"
+	log "github.com/fpalladoro/consul-alerts/Godeps/_workspace/src/github.com/Sirupsen/logrus"
 	"github.com/fpalladoro/consul-alerts/notifier"
 )
 

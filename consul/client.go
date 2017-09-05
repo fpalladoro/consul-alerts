@@ -12,8 +12,8 @@ import (
 
 	notifier "github.com/fpalladoro/consul-alerts/notifier"
 
-	log "github.com/AcalephStorage/consul-alerts/Godeps/_workspace/src/github.com/Sirupsen/logrus"
-	consulapi "github.com/AcalephStorage/consul-alerts/Godeps/_workspace/src/github.com/hashicorp/consul/api"
+	log "github.com/fpalladoro/consul-alerts/Godeps/_workspace/src/github.com/Sirupsen/logrus"
+	consulapi "github.com/fpalladoro/consul-alerts/Godeps/_workspace/src/github.com/hashicorp/consul/api"
 )
 
 const (
